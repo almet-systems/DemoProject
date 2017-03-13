@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo News List</string>
+    <string name="menu_feed">FOTT Feed</string>
+    <string name="menu_trips">Trips</string>
+    <string name="menu_people">People</string>
+    <string name="fott_feed">FOTT Feed</string>
+    <string name="feed_problems_while_loading">Problems while loading data</string>
+    <string name="app_try_again">Try again</string>
+    <string name="feed_today">Today %s</string>
+</resources>

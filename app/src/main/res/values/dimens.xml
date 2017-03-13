@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_side">20dp</dimen>
+    <dimen name="feed_corner_radius">5dp</dimen>
+    <dimen name="feed_elevation">5dp</dimen>
+    <dimen name="feed_item_margin">15dp</dimen>
+    <dimen name="feed_item_margin_top">10dp</dimen>
+    <dimen name="feed_item_image_height">230dp</dimen>
+    <dimen name="feed_item_padding">15dp</dimen>
+    <dimen name="feed_divider_dot">5dp</dimen>
+    <dimen name="ingress_margin">10dp</dimen>
+</resources>
